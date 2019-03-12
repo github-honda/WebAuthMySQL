@@ -240,3 +240,11 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/doc/Readme-WebAuthMySQL.html
+/doc/0230-IdentifyConfig.jpg
+/doc/0220-IdentityModel.jpg
+/doc/0210-Add2Projects.jpg
+/doc/0020-RemoveReference.jpg
+/doc/0010-UninstallEntityFramework2.jpg
+/doc/0010-UninstallEntityFramework1.jpg
+doc/
